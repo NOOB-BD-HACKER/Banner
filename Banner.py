@@ -60,7 +60,7 @@ bashrc2 = '''
 echo  "
                    
                             
-       < ━━━━━━━━━━━ [ AS SOWROV ] ━━━━━━━━━━━━ > " |lolcat
+       < ━━━━━━━━━━━ [ NOOB-BD-HACKER ] ━━━━━━━━━━━━ > " |lolcat
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
