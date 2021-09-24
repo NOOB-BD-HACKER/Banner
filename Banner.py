@@ -81,6 +81,4 @@ h2.close()
 
 
 
-print('DONE type exit and open after 10 seconds')
-echo
-echo 
+print('DONE type exit and open after 10 seconds') 
