@@ -21,6 +21,4 @@ $ cd Banner
 
 $ python2 Baner.py
 
-You need remove banner type this command
 
-$ bash Remove.sh 
